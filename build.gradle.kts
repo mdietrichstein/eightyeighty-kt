@@ -37,13 +37,14 @@ kotlin {
     }
     iosArm64()
     iosSimulatorArm64()
-    jvmToolchain(17)
+    jvmToolchain(19)
 
     sourceSets {
         jvmTest.dependencies {
             implementation(kotlin("test"))
         }
     }
+
 }
 
 spotless {

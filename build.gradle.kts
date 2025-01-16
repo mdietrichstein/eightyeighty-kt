@@ -17,7 +17,7 @@ mavenPublishing {
 
     signAllPublications()
 
-    coordinates(group.toString(), "eigthyeigthy-kt", version.toString())
+    coordinates(group.toString(), "eightyeighty-kt", version.toString())
 
     pom {
         name = "Intel 8080 Emulator"

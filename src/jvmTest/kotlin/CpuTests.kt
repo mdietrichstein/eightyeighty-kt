@@ -16,7 +16,7 @@ class CpuTests {
     @Test
     fun test8080PRE() {
         runTest(
-            "roms/cpu_tests/8080PRE.COM",
+            "roms/cpu_tests/8080PRE.COM"
             /* roms/cpu_tests/8080PRE.TRACE" */
         )
     }
@@ -24,7 +24,7 @@ class CpuTests {
     @Test
     fun testTST8080() {
         runTest(
-            "roms/cpu_tests/TST8080.COM",
+            "roms/cpu_tests/TST8080.COM"
             /* "roms/cpu_tests/TST8080.TRACE" */
         )
     }
@@ -32,7 +32,7 @@ class CpuTests {
     @Test
     fun testCPUTEST() {
         runTest(
-            "roms/cpu_tests/CPUTEST.COM",
+            "roms/cpu_tests/CPUTEST.COM"
             /* "roms/cpu_tests/CPUTEST.TRACE" */
         )
     }
@@ -40,7 +40,7 @@ class CpuTests {
     @Test
     fun test8080EXM() {
         runTest(
-            "roms/cpu_tests/8080EXM.COM",
+            "roms/cpu_tests/8080EXM.COM"
             /* "roms/cpu_tests/8080EXM.TRACE.gz" */
         )
     }

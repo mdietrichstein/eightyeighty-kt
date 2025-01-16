@@ -1213,5 +1213,5 @@ private val DISASSEMBLE_TABLE =
         "cm $",
         "ill",
         "cpi #",
-        "rst 7"
+        "rst 7",
     )
